@@ -1,0 +1,106 @@
+@charset "utf-8";
+aside {
+    background-color: #D6F6DD;
+    padding-top: 0%;
+    overflow-x: hidden;
+    overflow-y: visible;
+}
+h1 {
+    font-family: "Kaufmann BT";
+    font-size: xx-large;
+    float: left;
+    color: #623B5A;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-top: 20px;
+    text-shadow: 0px 0px;
+    display: inline-block;
+    text-align: center;
+    font-weight: normal;
+}
+h2 {
+    font-size: large;
+    font-family: "Courier New";
+    font-weight: 900;
+}
+
+
+body nav a {
+    color: #623B5A;
+    text-decoration: none;
+    text-align: left;
+}
+
+nav{
+	opacity: 0.75;
+
+}
+.navlist {
+    list-style-type: none;
+    background-color: #C28CAE;
+    overflow-x: hidden;
+    float: none;
+    color: #623B5A;
+    border-width: thick;
+    font-family: "Courier New";
+    margin: 0px;
+    background-image: -webkit-linear-gradient(270deg,rgba(214,246,221,1.00) 7.60%,rgba(194,140,174,1.00) 79.45%,rgba(194,140,174,1.00) 100%,rgba(4,252,26,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(214,246,221,1.00) 7.60%,rgba(194,140,174,1.00) 79.45%,rgba(194,140,174,1.00) 100%,rgba(4,252,26,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(214,246,221,1.00) 7.60%,rgba(194,140,174,1.00) 79.45%,rgba(194,140,174,1.00) 100%,rgba(4,252,26,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(214,246,221,1.00) 7.60%,rgba(194,140,174,1.00) 79.45%,rgba(194,140,174,1.00) 100%,rgba(4,252,26,1.00) 100%);
+}
+header {
+	float:left;
+	display: inline-block;
+    text-align: center;
+}
+
+.navlistitem {
+    float: right;
+    color: #000000;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    font-size: x-large;
+	}
+p {
+    font-style: normal;
+    font-family: "Courier New";
+}
+body {
+    background-color: #D1BBE7;
+    background-image: url(../images/aaron-burden-y02jEX_B0O0-unsplash.jpg);
+    color: #FFF9F9;
+    background-size: cover;
+    background-attachment: fixed;
+}
+section {
+    background-color: #FDFAFA;
+    color: #000000;
+    border-radius: 15px;
+    width: 50%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    float: right;
+    font-family: "Courier New";
+}
+main {
+
+
+}
+footer {
+    color: #000000;
+    font-family: "Courier New";
+    font-size: large;
+}
+h3 {
+    font-size: small;
+    font-weight: normal;
+    text-decoration: underline;
+}
